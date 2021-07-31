@@ -1,0 +1,37 @@
+/*font family - Amatic*/
+
+@font-face {
+    font-family: Amatic;
+    src: url(../fonts/Amatic_SC/AmaticSC-Bold.ttf);
+}
+
+/*font family - Cinzel*/
+
+@font-face {
+    font-family: Cinzel;
+    src: url(../fonts/Cinzel/Cinzel-VariableFont_wght.ttf);
+}
+
+
+/*font family - Pacifico*/
+
+@font-face {
+    font-family: Pacifico;
+    src: url(../fonts/Pacifico/Pacifico-Regular.ttf);
+}
+
+
+/*font family - YANONE*/
+
+@font-face {
+    font-family: Yanone;
+    src: url(../fonts/Yanone_Kaffeesatz/YanoneKaffeesatz-VariableFont_wght.ttf);
+}
+
+
+/*font family - Zen loop*/
+
+@font-face {
+    font-family: Zen;
+    src: url(../fonts/Zen_Loop/ZenLoop-Regular.ttf);
+}
